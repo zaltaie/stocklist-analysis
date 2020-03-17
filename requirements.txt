@@ -1,0 +1,5 @@
+dplyr==0.8.5
+ggplot2==3.3.0
+PerformanceAnalytics==2.0.4
+quantmod==0.4-16
+reshape2==1.4.3
