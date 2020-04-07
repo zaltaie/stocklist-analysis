@@ -8,7 +8,7 @@ library(tseries)
 
 start_time <- Sys.time()
 
-tradingData <- read.csv("NYSE.csv", header = TRUE)
+tradingData <- read.csv("NYSE.csv", header = TRUE) #unable to upload due to file is >25mb
 
 str(tradingData)
 
